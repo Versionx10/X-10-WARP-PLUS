@@ -27,4 +27,4 @@ python X-10_Warp.py
 
 * Termux
 
-![View](https://github.com/VersionX10/X-10-WARP-PLUS/1.1.1.1.png)
+![View](https://github.com/Versionx10/X-10-WARP-PLUS/blob/main/1.1.1.1.png)
