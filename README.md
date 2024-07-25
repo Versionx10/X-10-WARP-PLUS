@@ -1,5 +1,5 @@
-# X-10-WARP-PLUS
-# 1.1.1.1 WARP+ Unlimited Script
+
+# 1.1.1.1 WARP+ UNLIMITED SCRIPT
 * Setup In Termux
 
 > pkg update -y
@@ -10,7 +10,7 @@
 
 > pkg install git -y
 
-> git clone
+> git clone https://github.com/VersionX10/X-10-WARP-PLUS.git
 
 > cd X-10-WARP-PLUS
 
@@ -29,4 +29,4 @@
 
 * Termux
 
-![View](https://)
+![View](https://github.com/VersionX10/X-10-WARP-PLUS/1.1.1.1.png)
